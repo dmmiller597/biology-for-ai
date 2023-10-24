@@ -6,19 +6,19 @@ some resources for learning biology and ML
 
 The application of computing and engineering approaches promises to transform and advance our understanding of biology, an argument elegantly made by Yuri Lazbenik in his [Can a biologist fix a radio? Or, what I learned while studying apoptosis](https://www.cell.com/cancer-cell/fulltext/S1535-6108(02)00133-2)
 
-If you needed some more motivation (and guidance on how) to learn biology, James Somers has a magnificent essay: <http://jsomers.net/i-should-have-loved-biology/>
+If you needed some more motivation (and guidance on how) to learn biology, James Somers has a magnificent essay: [I should have love biology](http://jsomers.net/i-should-have-loved-biology/)
 
-If you need hope here is the view of Uri Alon, one of the founder of the discipline of "systems biology": <https://www.nature.com/articles/446497a>
+If you need hope here is the view of Uri Alon, one of the founder of the discipline of "systems biology": [Simplicity in Biology](https://www.nature.com/articles/446497a)
 
 
-Essay looking at foundation models for biology <https://jck.bio/learning-representations-of-life/>
+Essay looking at foundation models for biology [Learning Representations of Life](https://jck.bio/learning-representations-of-life/)
 
-Great Essay on method devlopment: <https://zackchiang.com/spatial-technologies-of-the-future/>
+Great Essay on method devlopment: [Spatial Technologies of the future](https://zackchiang.com/spatial-technologies-of-the-future/)
 
  
-Essay about ML in drug discovery: <https://nintil.com/biology-llms/>
+Essay about ML in drug discovery: [Notes on End-to-End Biology](https://nintil.com/biology-llms/)
  
-Longer essay going over recent measuring tools in bio and the future of their use: <https://markov.bio/biomedical-progress/>
+Longer essay going over recent measuring tools in bio and the future of their use: [A Future History of Biomedical Progress](https://markov.bio/biomedical-progress/)
 
 
 
