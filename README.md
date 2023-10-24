@@ -1,17 +1,22 @@
-# Biology for computer scientists and AI engineers
+# Computational Biology Things
 
-a syllabus and some resources for learning biology, geared for machine learning folks
+some resources for learning biology and ML
 
 ## Find some motivation
 
-Biology is fractal in its complexity and superbly interesting.
-As a computer scientist or machine learning scientist many of the concepts you encounter will resonate with you.
 
 The application of computing and engineering approaches promises to transform and advance our understanding of biology, an argument elegantly made by Yuri Lazbenik in his [Can a biologist fix a radio? Or, what I learned while studying apoptosis](https://www.cell.com/cancer-cell/fulltext/S1535-6108(02)00133-2)
 
 If you needed some more motivation (and guidance on how) to learn biology, James Somers has a magnificent essay: <http://jsomers.net/i-should-have-loved-biology/>
 
 If you need hope here is the view of Uri Alon, one of the founder of the discipline of "systems biology": <https://www.nature.com/articles/446497a>
+
+## Essays
+Essay looking at the <https://jck.bio/learning-representations-of-life/>
+
+Great Essay on method devlopment: <https://zackchiang.com/spatial-technologies-of-the-future/>
+
+
 
 ## Courses
 
@@ -21,7 +26,6 @@ Uri Alon also has released a great **system biology** course available online: <
 
 Another course on **systems medicine** is available from: <https://www.weizmann.ac.il/mcb/UriAlon/courses/systems-medicine-course-2020>
 
-This is a **systems biology** course by Bernhard Palsson: <https://www.youtube.com/playlist?list=PLzm7DNlS3_0hryL9WsVbWV_EkwBJNt9s3>
 
 
 ## Books
