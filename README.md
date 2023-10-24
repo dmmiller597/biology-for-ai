@@ -2,8 +2,7 @@
 
 some resources for learning biology and ML
 
-## Find some motivation
-
+## Essays
 
 The application of computing and engineering approaches promises to transform and advance our understanding of biology, an argument elegantly made by Yuri Lazbenik in his [Can a biologist fix a radio? Or, what I learned while studying apoptosis](https://www.cell.com/cancer-cell/fulltext/S1535-6108(02)00133-2)
 
@@ -11,10 +10,15 @@ If you needed some more motivation (and guidance on how) to learn biology, James
 
 If you need hope here is the view of Uri Alon, one of the founder of the discipline of "systems biology": <https://www.nature.com/articles/446497a>
 
-## Essays
-Essay looking at the <https://jck.bio/learning-representations-of-life/>
+
+Essay looking at foundation models for biology <https://jck.bio/learning-representations-of-life/>
 
 Great Essay on method devlopment: <https://zackchiang.com/spatial-technologies-of-the-future/>
+
+ 
+Essay about ML in drug discovery: <https://nintil.com/biology-llms/>
+ 
+Longer essay going over recent measuring tools in bio and the future of their use: <https://markov.bio/biomedical-progress/>
 
 
 
@@ -32,9 +36,9 @@ Another course on **systems medicine** is available from: <https://www.weizmann.
 
 [Cell biology by the numbers](http://book.bionumbers.org/) is an excellent entry point to explore some of the key numbers of cell biology.
 
-The [eight day of creation](https://www.amazon.com/The-Eighth-Day-Creation-Commemorative/dp/0879694785) is "the best history of recent biological science yet published"
+The [Eighth day of creation](https://www.amazon.com/The-Eighth-Day-Creation-Commemorative/dp/0879694785) is "the best history of recent biological science yet published"
 
-[A Very Short Introduction to Molecular Biology](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198723882.001.0001/actrade-9780198723882) a pocket guide that introduces you to the core concepts and terminology.
+
 
 [Bioinformatics Algorithms Textbook](https://www.bioinformaticsalgorithms.org/) - this book could also be considered a self-contained course. Learning about biology can be easier for some CS people when explained through algorithms, and this book is really good at merging biology and code into coherent concepts 🙂
 
